@@ -8,6 +8,11 @@
 - double-click the file **'[python_rename.py](python_rename.py)'** to run the python and change your file names<br>(對這檔案 **'[python_rename.py](python_rename.py)'** 連按兩下來執行 python 程式，並變更你的檔案名稱)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00006_EasistRenamer_Step3.jpg)
 
 
+## Advantages(優點)
+- Cross Platform (跨平台)
+- Portable Program (免安裝)
+- High Flexibility (靈活性高)
+
 ## Referneces (參考)
 - [ReNamer v6.7 超強改檔名工具（檔案批次重命名）](https://briian.com/38536/)ReNamer 是個功能非常完整、相當實用的專業級檔案重命名軟體，可以幫我們將整個資料夾的全部檔案一次重新命名成你要的樣子。
 	- 缺點：沒有 Excel 靈活。在 Excel 中，你可以做到任何格式，拉一拉就可以完成所有檔案命名
