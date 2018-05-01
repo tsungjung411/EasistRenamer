@@ -23,4 +23,4 @@
 
 
 ## Keywords (關鍵字)
-- rename program(重新命名程式)、rename tool(重新命名工具)、file names(檔案名稱)、rename file names(重新命名檔案名稱)、change(變更)、update(更新)
+- rename program(重新命名程式)、rename software(重新命名軟體)、rename tool(重新命名工具)、file names(檔案名稱)、rename file names(重新命名檔案名稱)、change(變更)、update(更新)
