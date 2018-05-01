@@ -1,6 +1,6 @@
-## 介紹
+## Introduction(介紹)
 Ｙou will inevitably need to rename a lots of files when digitizing your books. **EasistRenamer** can help you to complete file naming in the shortest possible time! !<br>(要自行炊書，就免不了要重新命名大量的檔案。**EasistRenamer** 可以幫助你在最短的時間內，完成檔案命名！！)
-
+<br>
 
 ## Three steps to rename your file names **on all platforms**!<br>(在所有平台上，三個步驟就可以把檔案名稱重新命名!)
 - Double-click the file **'[python_listdir.py](python_listdir.py)'** to run the python and get the current file list<br>(對這檔案 **'[python_listdir.py](python_listdir.py)'** 連按兩下來執行 python 程式，並取得目前檔案清單)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00001_EasistRenamer_Step1_1.jpg)
