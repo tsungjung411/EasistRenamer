@@ -1,11 +1,11 @@
 ## Three steps to rename your file names **on all platforms**!<br>(在所有平台上，三個步驟就可以把檔案名稱重新命名!)
-- double-click the file **'[python_listdir.py](python_listdir.py)'** to run the python and get the current file list<br>(連按兩下這檔案 **'[python_listdir.py](python_listdir.py)'** 來執行 python 程式，並取得目前檔案清單)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00001_EasistRenamer_Step1_1.jpg)
+- double-click the file **'[python_listdir.py](python_listdir.py)'** to run the python and get the current file list<br>(對這檔案 **'[python_listdir.py](python_listdir.py)'** 連按兩下來執行 python 程式，並取得目前檔案清單)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00001_EasistRenamer_Step1_1.jpg)
 - edit the file list<br>(編輯檔案清單)
   - open **'_file_list_.txt'** via text editor<br>(使用文字編輯器打開 **'_file_list_.txt'** )<br>![](https://github.com/tsungjung411/refs/blob/master/images/00002_EasistRenamer_Step2_1_1.jpg) ![](https://github.com/tsungjung411/refs/blob/master/images/00002_EasistRenamer_Step2_1.jpg) 
   - copy the file content into excel<br>(將檔案內容複製到 excel)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00003_EasistRenamer_Step2_2.jpg) 
   - format your file names (and delete other unnecessary files)<br>(將檔名進行格式化 (並刪除其他不需要的檔案))<br>![](https://github.com/tsungjung411/refs/blob/master/images/00004_EasistRenamer_Step2_3.jpg) 
   - paste the two columns back to **'_file_list_.txt'** and save it<br>(將這兩欄貼回 **'_file_list_.txt'**  並儲存)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00005_EasistRenamer_Step2_4.jpg)
-- double-click the file **'[python_rename.py](python_rename.py)'** to run the python and change your file names<br>(連按兩下這檔案 **'[python_rename.py](python_rename.py)'** 來執行 python 程式，並變更你的檔案名稱)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00006_EasistRenamer_Step3.jpg)
+- double-click the file **'[python_rename.py](python_rename.py)'** to run the python and change your file names<br>(對這檔案 **'[python_rename.py](python_rename.py)'** 連按兩下來執行 python 程式，並變更你的檔案名稱)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00006_EasistRenamer_Step3.jpg)
 
 
 ## Referneces (參考)
