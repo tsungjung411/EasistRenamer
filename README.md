@@ -6,3 +6,8 @@
   - format your file names (and delete other unnecessary files)<br>(將檔名進行格式化 (並刪除其他不需要的檔案))<br>![](https://github.com/tsungjung411/refs/blob/master/images/00004_EasistRenamer_Step2_3.jpg) 
   - paste the two columns back to **'_file_list_.txt'**<br>(將這兩欄貼回 **'_file_list_.txt'**)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00005_EasistRenamer_Step2_4.jpg)
 - double-click the file **'[python_rename.py](python_rename.py)'** to run the python and change your file names<br>(連按兩下這檔案 **'[python_rename.py](python_rename.py)'** 來執行 python 程式，並變更你的檔案名稱)<br>![](https://github.com/tsungjung411/refs/blob/master/images/00006_EasistRenamer_Step3.jpg)
+
+
+## Referneces (參考)
+- [ReNamer v6.7 超強改檔名工具（檔案批次重命名）](https://briian.com/38536/)ReNamer 是個功能非常完整、相當實用的專業級檔案重命名軟體，可以幫我們將整個資料夾的全部檔案一次重新命名成你要的樣子。
+	- 缺點：沒有 Excel 靈活。在 Excel 中，你可以做到任何格式，拉一拉就可以完成所有檔案命名
