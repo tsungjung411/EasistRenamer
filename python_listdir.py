@@ -1,3 +1,11 @@
+#
+# this tool is used to list file names under the current working directory
+#
+# @since 2018.04.11
+# @version 1.0
+# @author tsungjung411@gmail.com
+#
+
 import os
 
 # ####################################################################
@@ -16,6 +24,7 @@ def get_current_working_file_list():
 
 # ####################################################################
 def main():
+    # outputs the file list to the specific file '_file_list_.txt'
     with open('_file_list_.txt', 'w') as f:
         file_list = get_current_working_file_list()
         
