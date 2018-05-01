@@ -1,5 +1,5 @@
 ## Introduction(介紹)
-Ｙou will inevitably need to rename a lots of files when digitizing your books. **EasistRenamer** can help you to complete file naming in the shortest possible time! !<br>(要自行炊書，就免不了要重新命名大量的檔案。**EasistRenamer** 可以幫助你在最短的時間內，完成檔案命名！！)
+You will inevitably need to rename a lots of files when digitizing your books. **EasistRenamer** can help you to complete file naming in the shortest possible time! !<br>(要自行炊書，就免不了要重新命名大量的檔案。**EasistRenamer** 可以幫助你在最短的時間內，完成檔案命名！！)
 <br>
 
 ## Three steps to rename your file names **on all platforms**!<br>(在所有平台上，三個步驟就可以把檔案名稱重新命名!)
