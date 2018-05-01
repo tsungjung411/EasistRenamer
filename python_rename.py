@@ -60,7 +60,7 @@ def split_input_filenames(line):
     if len(tokens) != 2:
         print('[ERROR] line: {}'.format(line))
         print('[ERROR] tokens: {}'.format(str(tokens)))
-        print('[ERROR] the format should be: src_file dest_file (two file names in one line)'
+        print('[ERROR] the format should be: src_file dest_file (two file names in one line)')
         throwException()
     # end-of-if
     return tokens[0], tokens[1]
