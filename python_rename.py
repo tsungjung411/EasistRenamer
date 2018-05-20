@@ -118,7 +118,7 @@ def main():
         # end-of-if
         src_file, dest_file = split_input_filenames(line)
         print(src_file + ' -> ' + dest_file)
-        tmp_file = '._tmp_.' + dest_file
+        tmp_file = '___tmp___.' + dest_file
         triple = (src_file, tmp_file, dest_file)
         src_to_dest_list.append(triple)
     # end-of-for
