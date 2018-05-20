@@ -51,7 +51,9 @@ def get_current_working_file_list():
 #
 def split_input_filenames(line):
     # parses the line
-    tokens = re.split('[\s\t\r\n]+', line)
+    # do not include the '\s' (whitespace), so that we can allow '\s' in the file name
+    # such as 'track 01.mp3' (a whitespace between 'k' and '0')
+    tokens = re.split('[\t\r\n]+', line)
     
     # collects non-empty tokens
     tokens = [token for token in tokens if len(token) > 0]
