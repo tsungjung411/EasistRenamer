@@ -153,7 +153,7 @@ def main():
         
         # conflicted?
         if file in file_set:
-            print('[ERROR] conflicted files: "{}", please check them'.format(file))
+            print('[ERROR] conflicted files: "{}", please check the sources below:'.format(file))
             
             # lists conflicted files
             for src_file, tmp_file, dest_file in src_to_dest_list:
