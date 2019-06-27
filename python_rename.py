@@ -3,6 +3,7 @@
 #
 # @since 2018.04.11
 # @version 1.0
+# @version 1.1.20190627
 # @author tsungjung411@gmail.com
 #
 
@@ -11,7 +12,11 @@ import re
 
 # ####################################################################
 def throwException():
-    raw_input('press ENTER to end the app process')
+    error = 'press ENTER to end the app process'
+    try:
+        raw_input(error) # for python 2.X
+    except Exception as w:
+        input(error) # for python 3.X
     raise Exception()
 # end-of-def
 
